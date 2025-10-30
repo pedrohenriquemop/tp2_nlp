@@ -1,1 +1,3 @@
-# tp2_nlp
+# TP 2 - Processamento de Linguagem Natural
+
+## POS Tagging
